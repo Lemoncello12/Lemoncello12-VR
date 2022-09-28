@@ -18,7 +18,16 @@ public class Summoner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (testSummon == true)
+        {
+            if (summoned == false)
+            {
+                audio.Play();
+                theSummoned.gameObject.SetActive(true);
+                church.gameObject.SetActive(false);
+                summoned = true;
+            }
+        }
     }
 
     private void OnTriggerEnter(Collider other)
