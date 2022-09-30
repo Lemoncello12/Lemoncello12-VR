@@ -4,15 +4,9 @@ using UnityEngine;
 
 public class SceneOpener : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    
+    public void OpenScene(int SceneNum)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log("It worked!");
     }
 }
