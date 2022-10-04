@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Village/Virtual Reality Scene V18.unity
     guid: cc775865735fa0c4b874f2a64df663d2
+  - enabled: 1
+    path: Assets/Scenes/Garage/Garage V2.unity
+    guid: dbb567d1c51c75b459959b85016ba410
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 846ecde3c311c2548888de01a1c6396e, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: d352d3c35596d334d8bb6707d69e46e4, type: 2}

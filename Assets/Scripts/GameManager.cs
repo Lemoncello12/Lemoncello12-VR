@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -30,8 +31,9 @@ public class GameManager : MonoBehaviour
         Application.Quit();
     }
 
-    public void OpenScene(int SceneNum)
+    public void OpenScene(int sceneNum)
     {
-        Debug.Log("It worked!");
+        //Debug.Log("It worked!");
+        SceneManager.LoadScene(sceneNum);
     }
 }
