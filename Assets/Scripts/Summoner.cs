@@ -9,6 +9,7 @@ public class Summoner : MonoBehaviour
     public AudioSource audio;
     public bool summoned = false;
     public bool testSummon = false;
+    public Material aVeryBadOmen;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +26,7 @@ public class Summoner : MonoBehaviour
                 audio.Play();
                 theSummoned.gameObject.SetActive(true);
                 church.gameObject.SetActive(false);
+                RenderSettings.skybox = aVeryBadOmen;
                 summoned = true;
             }
         }
@@ -39,6 +41,7 @@ public class Summoner : MonoBehaviour
                 audio.Play();
                 theSummoned.gameObject.SetActive(true);
                 church.gameObject.SetActive(false);
+                RenderSettings.skybox = aVeryBadOmen;
                 summoned = true;
             }
         }
