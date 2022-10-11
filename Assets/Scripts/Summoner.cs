@@ -7,9 +7,9 @@ public class Summoner : MonoBehaviour
     public GameObject theSummoned;
     public GameObject church;
     public AudioSource audio;
+    public Material aVeryBadOmen;
     public bool summoned = false;
     public bool testSummon = false;
-    public Material aVeryBadOmen;
     // Start is called before the first frame update
     void Start()
     {
