@@ -10,6 +10,7 @@
 *Tree assets from Poly_Low_Trees_Pack_FREE by DinV Studio (https://assetstore.unity.com/packages/3d/vegetation/trees/poly-low-trees-pack-free-204089)
 *Lemoncello12 VR Reassurance Bucket (No affiliation) from Stylized Western Wooden Bucket by Pijay Art (https://assetstore.unity.com/packages/3d/props/tools/stylized-western-wooden-bucket-191513)
 *Various assets from Survival Kit Lite by Rowntec Assets (https://assetstore.unity.com/packages/3d/props/tools/survival-kit-lite-92549)
+*Techy garage assets from LowPoly Server Room Props by iPoly3D (https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268)
 *Special thanks to to Meshtint studio for both chickens, which you may have noticed I used heavily (https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chicken-mega-toon-series-151842) and (https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chick-mega-toon-series-152777)
 *With thanks to the owner of computergraphics.com
 
