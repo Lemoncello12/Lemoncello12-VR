@@ -1,5 +1,6 @@
 --CREDITS--
---Lemoncello12 VR by Lemoncello12--
+--LEMONCELLO12 VR by Lemoncello12--
+--A UNITY Game--
 
 *Car assets from Low Poly Cars by Broken Vector (https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798)
 *Skybox assets from Fantasy Skybox FREE by Render Knight (https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
