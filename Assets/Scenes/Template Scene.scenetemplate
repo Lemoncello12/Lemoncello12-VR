@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Template Scene
   m_EditorClassIdentifier: 
   templateScene: {fileID: 102900000, guid: 42ce87cd40c155148bf3e11d57917d14, type: 3}
-  templateName: Template Scene
+  templateName: VR Template Scene
   description: Make Some VR Scenes from this thingamajigbob!
   preview: {fileID: 2800000, guid: 72dbf3599b49f234fb7e24b490e029c5, type: 3}
   dependencies:
