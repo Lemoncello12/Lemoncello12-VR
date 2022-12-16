@@ -183,8 +183,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Quit Game
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
+  m_sharedMaterial: {fileID: -6712271314079698361, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1631,8 +1631,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Garage
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
+  m_sharedMaterial: {fileID: -6712271314079698361, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1966,8 +1966,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Village
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
+  m_sharedMaterial: {fileID: -6712271314079698361, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2957,7 +2957,7 @@ GameObject:
   - component: {fileID: 1910202852}
   - component: {fileID: 1910202851}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Quit Game
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3162,14 +3162,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1083421922}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: OpenScene
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
