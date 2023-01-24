@@ -7,6 +7,8 @@ TagManager:
   - Chicken
   - Garage
   - Hand
+  - Laptop
+  - Remote
   layers:
   - Default
   - TransparentFX

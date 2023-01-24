@@ -28,16 +28,15 @@ public class NextSlide : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        if (other.gameObject.CompareTag("Hand"))
+        if (other.gameObject.CompareTag("Remote"))
         {
             contact = true;
-            Debug.Log("Contact Detected");
         }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.gameObject.CompareTag("Hand"))
+        if (other.gameObject.CompareTag("Remote"))
         {
             contact = false;
         }
