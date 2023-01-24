@@ -22,7 +22,7 @@ public class NextSlide : MonoBehaviour
     {
         if (contact)
         {
-            slide.NextSlide;
+            slide.NextSlide();
         }
     }
 
@@ -31,6 +31,7 @@ public class NextSlide : MonoBehaviour
         if (other.gameObject.CompareTag("Hand"))
         {
             contact = true;
+            Debug.Log("Contact Detected");
         }
     }
 
