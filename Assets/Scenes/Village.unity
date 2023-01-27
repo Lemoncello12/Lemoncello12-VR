@@ -2540,7 +2540,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Garage
+  m_text: Office
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
   m_sharedMaterial: {fileID: -6712271314079698361, guid: b2812bada3e6ecd4fbce7a04420aa792, type: 2}
