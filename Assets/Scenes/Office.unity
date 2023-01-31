@@ -4854,7 +4854,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ac7c9b1573188834ba685edb153f8dd2, type: 2}
+  - {fileID: 2100000, guid: bc858846fd3a32044956736331c659b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5712,6 +5712,67 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1001 &6414229669599775198
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.3453
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.1299
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.447
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500219, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414229671664500220, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_InteractionManager
+      value: 
+      objectReference: {fileID: 418244782}
+    - target: {fileID: 6414229671664500223, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
+      propertyPath: m_Name
+      value: Book
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37a2043fc6f4b3f4b8a66f136a6a29c6, type: 3}
 --- !u!1001 &7197323779882676728
 PrefabInstance:
   m_ObjectHideFlags: 0
