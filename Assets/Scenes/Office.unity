@@ -2311,6 +2311,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 561776562}
     m_Modifications:
+    - target: {fileID: 130155079, guid: bc9cdfad65562854b86c69a063285b2f, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8552802604103004191, guid: bc9cdfad65562854b86c69a063285b2f, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -4572,8 +4576,8 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 3
+  MinDistance: 0.3
+  MaxDistance: 5
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
