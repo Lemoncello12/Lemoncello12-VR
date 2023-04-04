@@ -12,7 +12,7 @@
 *Lemoncello12 VR Reassurance Bucket (No affiliation) from Stylized Western Wooden Bucket by Pijay Art (https://assetstore.unity.com/packages/3d/props/tools/stylized-western-wooden-bucket-191513)
 *Various assets from Survival Kit Lite by Rowntec Assets (https://assetstore.unity.com/packages/3d/props/tools/survival-kit-lite-92549)
 *Techy garage assets from LowPoly Server Room Props by iPoly3D (https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268)
-*Chess assets from Chess Pieces and Board by Joe Censored Games 2 (https://assetstore.unity.com/packages/3d/props/chess-pieces-board-70092)
+*Office furniture from Office Room Furniture by Elcanetay (https://assetstore.unity.com/packages/3d/props/furniture/office-room-furniture-70884)
 *Special thanks to to Meshtint studio for both chickens, which you may have noticed I used heavily (https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chicken-mega-toon-series-151842) and (https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chick-mega-toon-series-152777)
 *Music (have you noticed it yet?) made with Chrome Music Lab
 *With thanks to the owner of computergraphics.com
