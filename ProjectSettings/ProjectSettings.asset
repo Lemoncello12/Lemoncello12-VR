@@ -171,9 +171,6 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: 846ecde3c311c2548888de01a1c6396e, type: 2}
-  - {fileID: 8764150104954013041, guid: 39c4f14fbf1ad5645a48df7c8fe800fd, type: 2}
-  - {fileID: 7185170435496641182, guid: e7b4427f4d3dd6e408f34a5c8ba3267d, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -193,7 +190,9 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.Lemoncello12.Lemoncello12VR
     Standalone: com.Lemoncello12.Lemoncello12-VR
+    iPhone: com.Lemoncello12.Lemoncello12-VR
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -888,7 +887,7 @@ PlayerSettings:
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
   enableRoslynAnalyzers: 1
-  selectedPlatform: 0
+  selectedPlatform: 2
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 1
